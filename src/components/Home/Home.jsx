@@ -13,8 +13,8 @@ export default function Home() {
     return(
         <>
             <Header/>
-            <About/>
             <VegetableSection/>
+            <About/>
             <ChooseSection/>
             <Testimonials/>
             <ContactUs/>
